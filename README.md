@@ -1,16 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+<h1 align="center">Merhaba 👋, ben Mertgzzr</h1>
+<h3 align="center">Türkiye'den tutkulu bir önyüz geliştiricisi</h3>
 
 <br/>  
 
