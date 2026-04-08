@@ -5,18 +5,7 @@
 
 # 🌐 Socials:
 <div align="start">
-  <a href="https://www.linkedin.com/in/sevro49/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://drive.google.com/file/d/1U_lvl2--dAwPSInaM3Sq74BNpWvwXXbF/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume_EN&logo=microsoft-outlook&label=&color=d9372b&logoColor=white&labelColor=&style=flat" height="30" alt="resume"  />
-  </a>
-  <a href="https://drive.google.com/file/d/1R4gq7x90UeomHyyn7e2uK-WZu65qYVMl/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume_TR&logo=microsoft-outlook&label=&color=d9372b&logoColor=white&labelColor=&style=flat" height="30" alt="resume"  />
-  </a>
-   <a href="https://emreguler.com.tr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=microsoft-outlook&label=&color=F96854&logoColor=white&labelColor=&style=flat" height="30" alt="portfolio"  />
-  </a>
+
 
 </div>
 
