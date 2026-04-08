@@ -96,7 +96,8 @@
 </p>
 
 # ☕ Support:
-<p align="start">
+  <br/>
+  <p align="start">
   <a href="www.buymeacoffee.com/mertgzzr">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/mertgzzr" />
   </a>
