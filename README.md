@@ -90,14 +90,14 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mertgzzr&theme=monokai&hide_border=false&include_all_commits=false&count_private=false" alt="mertgzzr stats" />
+  
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertgzzr&theme=monokai&hide_border=false" alt="mertgzzr streak" />
 </p>
 
 # ☕ Support:
 <p align="start">
-  <a href="https://www.buymeacoffee.com/buymeacoffee.com/mertgzzr">
+  <a href="www.buymeacoffee.com/mertgzzr">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/mertgzzr" />
   </a>
 </p>
